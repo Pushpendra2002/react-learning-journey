@@ -82,8 +82,8 @@ A curated collection of **11 practical React mini-projects** built to explore an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Pushpendra2002/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/Pushpendra2002/react-learning-journey.git
+   cd react-learning-journey
    ```
 
 2. **Navigate to any mini-project folder:**
